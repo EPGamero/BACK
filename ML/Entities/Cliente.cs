@@ -12,5 +12,6 @@ namespace ML
         public string Nombre { get; set; }
         public string APaterno { get; set; }
         public string AMaterno { get; set; }
+        public int MyProperty { get; set; }
     }
 }
